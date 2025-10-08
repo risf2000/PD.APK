@@ -6,7 +6,7 @@ package.domain = ir.yourname
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,ttf
 source.include_patterns = fonts/*.ttf,icons/*.png
-source.main_entrypoint = main
+source.main_entrypoint = fffont2-0
 
 version = 1.0
 requirements = python3,kivy==2.3.0,arabic-reshaper,bidi
